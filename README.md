@@ -1,6 +1,14 @@
-# team_0526_1
+# Flutter 教程 Key-4 全局键 GlobalKey 的两种用法
 
-A new Flutter project.
+網址：https://www.bilibili.com/video/BV1Hf4y1R7Pf
+
+介紹GlobalKey 的兩種用法.
+還介紹了：
+- _globalKey.currentState
+- _globalKey.currentWidget
+- _globalKey.currentContext
+
+以及還有說明Flex, 搭配MediaQuery.of(context).orientation, 切換顯示方式的應用.
 
 ## Getting Started
 
@@ -14,5 +22,8 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+<<<<<<< HEAD
 # Flutter_Key-4_GlobalKey
 # Flutter_Key-4_GlobalKey
+=======
+>>>>>>> c6da9e4fea4a2b0f54cae60134fbc77a56849068
